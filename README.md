@@ -1,1 +1,2 @@
-# RecyclerViews-Android-
+# RecyclerViews-Android
+Tools yang dipakai Android Studio
